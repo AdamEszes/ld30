@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>tile1.png</Source>
+      <Name>tile1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\msi\documents\visual studio 2013\Projects\Through\Through\Through\bin\x86\Debug\Content\tile1.xnb</Output>
+      <Time>2014-08-24T07:17:35.1061537+02:00</Time>
+    </Item>
+    <Item>
+      <Source>tile0.png</Source>
+      <Name>tile0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\msi\documents\visual studio 2013\Projects\Through\Through\Through\bin\x86\Debug\Content\tile0.xnb</Output>
+      <Time>2014-08-24T07:41:52.2264699+02:00</Time>
+    </Item>
+    <Item>
+      <Source>power.png</Source>
+      <Name>power</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\msi\documents\visual studio 2013\Projects\Through\Through\Through\bin\x86\Debug\Content\power.xnb</Output>
+      <Time>2014-08-24T07:39:54.0248383+02:00</Time>
+    </Item>
+    <Item>
+      <Source>tile2.png</Source>
+      <Name>tile2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\msi\documents\visual studio 2013\Projects\Through\Through\Through\bin\x86\Debug\Content\tile2.xnb</Output>
+      <Time>2014-08-24T07:53:13.7006319+02:00</Time>
+    </Item>
+    <Item>
+      <Source>tile3.png</Source>
+      <Name>tile3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\msi\documents\visual studio 2013\Projects\Through\Through\Through\bin\x86\Debug\Content\tile3.xnb</Output>
+      <Time>2014-08-24T07:05:23.8705213+02:00</Time>
+    </Item>
+    <Item>
+      <Source>bgmusic.mp3</Source>
+      <Name>bgmusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\msi\documents\visual studio 2013\Projects\Through\Through\Through\bin\x86\Debug\Content\bgmusic.xnb</Output>
+      <Extra>c:\users\msi\documents\visual studio 2013\Projects\Through\Through\Through\bin\x86\Debug\Content\bgmusic.wma</Extra>
+      <Time>2014-03-29T21:46:52.0884085+01:00</Time>
+    </Item>
+    <Item>
+      <Source>player1.png</Source>
+      <Name>player1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\msi\documents\visual studio 2013\Projects\Through\Through\Through\bin\x86\Debug\Content\player1.xnb</Output>
+      <Time>2014-08-24T08:17:57.3380153+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player2.png</Source>
+      <Name>player2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\msi\documents\visual studio 2013\Projects\Through\Through\Through\bin\x86\Debug\Content\player2.xnb</Output>
+      <Time>2014-08-23T21:23:25.6232952+02:00</Time>
+    </Item>
+    <Item>
+      <Source>collid1.wav</Source>
+      <Name>collid1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MSI\Documents\Visual Studio 2013\Projects\Through\Through\Through\bin\x86\Debug\Content\collid1.xnb</Output>
+      <Time>2014-08-24T06:43:04.1120972+02:00</Time>
+    </Item>
+    <Item>
+      <Source>collid2.wav</Source>
+      <Name>collid2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MSI\Documents\Visual Studio 2013\Projects\Through\Through\Through\bin\x86\Debug\Content\collid2.xnb</Output>
+      <Time>2014-08-24T06:47:01.4224599+02:00</Time>
+    </Item>
+    <Item>
+      <Source>lose.wav</Source>
+      <Name>lose</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MSI\Documents\Visual Studio 2013\Projects\Through\Through\Through\bin\x86\Debug\Content\lose.xnb</Output>
+      <Time>2014-08-24T07:01:26.8421847+02:00</Time>
+    </Item>
+    <Item>
+      <Source>win.wav</Source>
+      <Name>win</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MSI\Documents\Visual Studio 2013\Projects\Through\Through\Through\bin\x86\Debug\Content\win.xnb</Output>
+      <Time>2014-08-24T07:05:50.4080226+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player3.png</Source>
+      <Name>player3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MSI\Documents\Visual Studio 2013\Projects\Through\Through\Through\bin\x86\Debug\Content\player3.xnb</Output>
+      <Time>2014-08-24T08:29:52.341176+02:00</Time>
+    </Item>
+    <Item>
+      <Source>first.png</Source>
+      <Name>first</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MSI\Documents\Visual Studio 2013\Projects\Through\Through\Through\bin\x86\Debug\Content\first.xnb</Output>
+      <Time>2014-08-24T09:11:54.5416158+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{EC4446E1-5497-4B71-A347-E01AA52AEF5A}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\MSI\Documents\Visual Studio 2013\Projects\Through\Through\ThroughContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\MSI\Documents\Visual Studio 2013\Projects\Through\Through\Through\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\MSI\Documents\Visual Studio 2013\Projects\Through\Through\Through\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\MSI\Documents\Visual Studio 2013\Projects\Through\Through\Through\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-06-05T16:41:12.4751743+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
